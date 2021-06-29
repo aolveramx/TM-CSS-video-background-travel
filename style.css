@@ -98,7 +98,7 @@
   text-transform: uppercase;
 }
 
-.text h2 {
+.text h3 {
   font-size: 4em;
   font-weight: 700;
   line-height: 1em;
@@ -182,7 +182,7 @@
 
 @media (max-width: 798px) {
   .showcase,
-  .showcase-header {
+  .showcase header {
     padding: 40px;
   }
 
